@@ -1,0 +1,4 @@
+*.pyc
+python3.7/
+venv/
+__pycache__/
